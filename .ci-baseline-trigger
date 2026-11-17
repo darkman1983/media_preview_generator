@@ -1,0 +1,3 @@
+CI control run against pristine upstream dev at 74c61e7842f1cb89dff8c26ab10f913775f08df5.
+No application or test source changes. Do not merge this test PR.
+Retest requested after GitHub Actions enabled in fork.
